@@ -13,5 +13,5 @@ A presentation summarizing the results of the project is also contained in this 
 
 - [Presentation summarizing the results of the project in Keynote format](Predicting%20flight%20delays.key)
 - [Presentation in PDF](Predicting%20flight%20delays.pdf)
-- Tableau heatmap of delays by day of week and time of day
-- Tableau map of delays by airport
+- [Tableau heatmap of delays by day of week and time of day](https://public.tableau.com/profile/tableau.user1856#!/vizhome/Heatmap_72/Heatmap)
+- [Tableau map of delays by origin airport](https://public.tableau.com/profile/tableau.user1856#!/vizhome/Originmap/Delaysbyoriginairport)
