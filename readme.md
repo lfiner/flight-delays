@@ -1,4 +1,4 @@
-# Will this happen to you? Predicting flight delays
+# Will this happen to you? Predicting delays on U.S. flights
 Larry Finer  
 February 2019
 
